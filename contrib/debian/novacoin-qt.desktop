@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=EquiTrader
+Comment=EquiTrader P2P Cryptocurrency
+Comment[ru]=EquiTrader, P2P криптовалюта
+Comment[fr]=EquiTrader, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=EquiTrader, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/EquiTrader-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/EquiTrader80.xpm
+MimeType=x-scheme-handler/EquiTrader;
+Categories=Office;

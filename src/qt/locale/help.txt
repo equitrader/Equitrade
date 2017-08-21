@@ -1,0 +1,1 @@
+EquiTrader is the translated version of EquiTrader for the ZH_CN translation

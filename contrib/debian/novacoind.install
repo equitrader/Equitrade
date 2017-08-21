@@ -1,0 +1,2 @@
+debian/bin/EquiTraderd usr/bin
+src/EquiTraderd usr/lib/EquiTrader

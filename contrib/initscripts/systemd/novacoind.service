@@ -1,0 +1,11 @@
+[Unit]
+Description=EquiTrader daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=EquiTrader
+ExecStart=/opt/EquiTrader/EquiTraderd
+
+[Install]
+WantedBy=multi-user.target

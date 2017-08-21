@@ -1,0 +1,9 @@
+Building EquiTrader
+
+See doc/readme-qt.rst for instructions on building EquiTrader Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of EquiTrader.
+
+See doc/build-*.txt for instructions on building EquiTraderd,
+the intended-for-services, no-graphical-interface, reference
+implementation of EquiTrader.

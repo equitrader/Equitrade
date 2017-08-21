@@ -1,0 +1,5 @@
+EquiTrader-qt usr/bin
+share/pixmaps/EquiTrader32.xpm usr/share/pixmaps
+share/pixmaps/EquiTrader80.xpm usr/share/pixmaps
+debian/EquiTrader-qt.desktop usr/share/applications
+debian/EquiTrader-qt.protocol usr/share/kde4/services/
