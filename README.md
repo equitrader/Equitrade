@@ -24,3 +24,5 @@ By monetizing your content, EQT incentivizes traders to share their technical an
 Harnessing the power of swarm intelligence and the wisdom of crowds, EquiTrader enables traders to sieve through the crowd to pick quality analyses, therefore accurately forecasting the most profitable trade and maximise profits.
 
 On top of all that, our key selling point is our Social Trading Platform, which will enable shadow trading for users to execute automated trades based on following profitable traders.
+
+#EQT
