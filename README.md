@@ -1,8 +1,8 @@
 ## EquiTrader [EQT] – Monetizing Financial Market Analysis
     Accurate & Profitable Trade Forecasts using Swarm Intelligence
 
-## RPC Port: 43102
-## Network Port: 43103
+RPC Port: 43102
+Network Port: 43103
 
 ## Built by Traders, For Traders.
 
