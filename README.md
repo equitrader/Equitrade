@@ -1,3 +1,4 @@
+## NEW CHAIN -----------
 ## EquiTrader [EQT] – Monetizing Financial Market Analysis
     Accurate & Profitable Trade Forecasts using Swarm Intelligence
 
