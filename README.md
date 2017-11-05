@@ -7,7 +7,9 @@ Network Port: 43103
 
 30% annual interest 
 
-## Built by Traders, For Traders
+## Built by Traders, For Traders4
+
+Platform :- aluna.social , equitradernews.com
 
 EquiTrader is a decentralized crowdsourced financial markets analysis platform which rewards traders with app tokens for providing valuable market analysis and trading forecasts.
 
