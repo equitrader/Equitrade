@@ -1,4 +1,4 @@
-﻿ARMV7
+﻿ARMV78
 1.1 Установка архиватора 7z: http://www.7-zip.org/ 
 (при написании инструкции использовался 7-Zip 9.20 64 bit X64, но скорее всего подойдёт любая версия)
 
@@ -8,7 +8,7 @@
 -директория для установки C:\MinGW
 -поставить галочку напротив "...also install support for the graphical user interface."
 -убрать галочки напротив "..in the start menu, and/or .." "... on the desktop"
--нажмите continue
+-нажмите continue  
 -нажмите continue
 -нажмите All Packages, затем MSYS
 -поставте галочки напротив:
