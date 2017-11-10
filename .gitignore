@@ -1,4 +1,4 @@
-src/*.exe
+src/*.exe 
 src/EquiTraderd
 src/build.h
 .*.swp
