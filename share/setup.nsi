@@ -32,7 +32,7 @@ SetCompressor /SOLID lzma
 # Variables
 Var StartMenuGroup
 
-# Installer pages
+# Installer pages and media
 !insertmacro MUI_PAGE_WELCOME
 !insertmacro MUI_PAGE_DIRECTORY
 !insertmacro MUI_PAGE_STARTMENU Application $StartMenuGroup
