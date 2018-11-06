@@ -9,8 +9,6 @@ Network Port: 43103
 
 ## Built by Traders, For Traders4
 
-Platform :- aluna.social , equitradernews.com
-
 EquiTrader is a decentralized crowdsourced financial markets analysis platform which rewards traders with app tokens for providing valuable market analysis and trading forecasts.
 
 EquiTrader rewards traders for sharing their insight on successful altcoin, bitcoin, and financial market analysis and trades, and provides a social community for traders and investors of cryptocurrency, stock, futures, and forex markets.
